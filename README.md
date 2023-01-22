@@ -10,15 +10,14 @@ Full Stack [FiveM][fivem] & Web Developer, currently working on [Production RP][
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a> -->
 
 <p align="left">
-    <a href="" title="Docker"><img src="icons/docker.png" height="50" width="50" /></a>
-    <a href="" title="Git"><img src="icons/git.png" height="50" width="50" /></a>
-    <a href="" title="JQuery"><img src="icons/jquery.png" height="50" width="50" /></a>
-    <a href="" title="Lua"><img src="icons/lua.png" height="50" width="50" /></a>
-    <a href="" title="NodeJS"><img src="icons/nodejs.png" height="50" width="50" /></a>
-    <a href="" title="React"><img src="icons/react.png" height="50" width="50" /></a>
-    <a href="" title="SQL"><img src="icons/sql.png" height="50" width="50" /></a>
-    <a href="" title="Typescript"><img src="icons/typescript.png" height="50" width="50" /></a>
-    <a href="" title="Vite"><img src="icons/vite.png" height="50" width="50" /></a>
+    <a href="https://www.lua.org/" title="Lua"><img src="icons/lua.png" height="50" width="50" /></a>
+    <a href="https://nodejs.org/" title="NodeJS"><img src="icons/nodejs.png" height="50" width="50" /></a>
+    <a href="https://www.typescriptlang.org/" title="Typescript"><img src="icons/typescript.png" height="50" width="50" /></a>
+    <a href="https://reactjs.org/" title="React"><img src="icons/react.png" height="50" width="50" /></a>
+    <a href="https://www.mysql.com/" title="MySQL"><img src="icons/sql.png" height="50" width="50" /></a>
+    <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" height="50" width="50" /></a>
+    <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" height="50" width="50" /></a>
+    <a href="https://vitejs.dev/" title="Vite"><img src="icons/vite.png" height="50" width="50" /></a>
 </p>
 
 [website]: https://bobatea.dev/

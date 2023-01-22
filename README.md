@@ -2,6 +2,8 @@
 
 Full Stack [FiveM][fivem] & Web Developer, currently working on [Production RP][productionrp]
 
+[![Twitch](https://img.shields.io/twitch/status/boba_dev?label=LiveStream&style=for-the-badge)][twitch]
+
 #### Currently working with:
 
 <!-- <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
@@ -24,5 +26,3 @@ Full Stack [FiveM][fivem] & Web Developer, currently working on [Production RP][
 [fivem]: https://fivem.net/
 
 [![boba's GitHub stats](https://github-readme-stats.vercel.app/api?username=itstait&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Twitch](https://img.shields.io/twitch/status/boba_dev?label=LiveStream&style=for-the-badge)][twitch]

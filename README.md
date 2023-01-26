@@ -6,9 +6,6 @@ Full Stack [FiveM][fivem] & Web Developer, currently working on [Production RP][
 
 #### Currently working with:
 
-<!-- <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a> -->
-
 <p align="left">
     <a href="https://www.lua.org/" title="Lua"><img src="icons/lua.png" height="50" width="50" /></a>
     <a href="https://nodejs.org/" title="NodeJS"><img src="icons/nodejs.png" height="50" width="45" /></a>
@@ -22,7 +19,7 @@ Full Stack [FiveM][fivem] & Web Developer, currently working on [Production RP][
 </p>
 
 [website]: https://bobatea.dev/
-[twitch]: https://twitter.com/bobathedev
+[twitch]: https://www.twitch.tv/boba_dev
 [productionrp]: https://www.productionrp.net/
 [fivem]: https://fivem.net/
 

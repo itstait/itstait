@@ -2,7 +2,7 @@
 
 Full Stack [FiveM][fivem] & Web Developer, currently working on [Production RP][productionrp]
 
-[![Twitch](https://img.shields.io/twitch/status/boba_dev?label=LiveStream&style=for-the-badge)][twitch]
+<!-- [![Twitch](https://img.shields.io/twitch/status/boba_dev?label=LiveStream&style=for-the-badge)][twitch] -->
 
 #### Currently working with:
 

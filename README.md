@@ -23,4 +23,4 @@ Full Stack [FiveM][fivem] & Web Developer, currently working on [Production RP][
 [productionrp]: https://www.productionrp.net/
 [fivem]: https://fivem.net/
 
-[![boba's GitHub stats](https://github-readme-stats.vercel.app/api?username=itstait&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![boba's GitHub stats](https://github-readme-stats.vercel.app/api?username=scomfy&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
